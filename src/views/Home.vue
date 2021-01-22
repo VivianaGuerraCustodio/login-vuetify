@@ -13,7 +13,7 @@
                         <h2
                           class="text-center display-2 p-3 m-3 teal--text text--acent-3"
                         >
-                          CTI te la bienvenida
+                          CTI te da la bienvenida
                         </h2>
                         <div class="text-center" mt-4>
                           <v-btn class="mx-2" fab color="black" outlined>

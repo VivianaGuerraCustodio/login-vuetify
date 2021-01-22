@@ -7,7 +7,7 @@
           :mini-variant.sync="mini"
           permanent
         >
-          <v-list-item class="px-2">
+           <v-list-item class="px-2">
             <v-list-item-avatar>
               <v-img
                 src="https://randomuser.me/api/portraits/lego/1.jpg"
@@ -35,7 +35,6 @@
             </v-list-item>
           </v-list>
         </v-navigation-drawer>
-     
       </v-container>
     </v-main>
   </v-app>

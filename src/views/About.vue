@@ -35,9 +35,7 @@
             </v-list-item>
           </v-list>
         </v-navigation-drawer>
-        <!-- <v-alert dense type="info">
-          El dashboard está vacío
-        </v-alert> -->
+     
       </v-container>
     </v-main>
   </v-app>
